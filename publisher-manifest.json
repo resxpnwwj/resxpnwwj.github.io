@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "2c930e6b2bc9449aabb97179",
+  "owner": "resxpnwwj",
+  "repo": "resxpnwwj.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "57e4dfbb4ba7fc5feda6b13d",
+      "a": "海豚湾(Dolphin)",
+      "b": "首页",
+      "entity": "海豚湾(Dolphin)",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "432ed313a8542889876931c4bfa704261434b14423ecc63ceb1e7ff32dd93b0f",
+      "content": {
+        "primary_entity": "海豚湾(Dolphin)",
+        "keyword1": "海豚湾(Dolphin)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端、移动端与路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先对照设备数量与流量需求，选定套餐后按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，海豚湾(Dolphin)提供基础版、旗舰版与团队版三档套餐，分别对应不同流量、设备数量和线路等级，覆盖个人流媒体、游戏加速与团队多设备场景。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量和订阅周期三个角度了解如何匹配需求。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版侧重流媒体与游戏线路，团队版面向多设备高流量场景。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从三台到二十台不等，按家庭或团队实际接入数量选择档位。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选择，年付方案在长期使用中更为经济，适合确定长期需求的用户。",
+          "AI_FEATURE_TITLE_1": "按场景选档",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期安排",
+          "AI_GUIDE_INTRO": "从选择套餐到使用订阅，按三个步骤操作。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "海豚湾(Dolphin)面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档套餐，覆盖个人流媒体、游戏加速与团队多设备使用场景，按设备数量和流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "海外加速套餐选择参考",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量灵活匹配",
+          "AI_HIGHLIGHT_3": "月付年付可选",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路等级上各有侧重，可根据使用强度与接入设备数量进行对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用场景与设备数量，在基础版、旗舰版和团队版中选定合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，查看对应平台是否满足使用条件。",
+          "AI_STEP_TEXT_3": "选择与设备匹配的客户端，参照其安装说明添加订阅信息并建立连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "海豚湾(Dolphin)套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐选择与付费周期。",
+          "AI_FAQ_QUESTION_1": "海豚湾三档套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻量使用，旗舰版适合多设备与流媒体进阶需求，团队版面向多人协同与高流量场景。先统计常用设备数量和月均流量，再对照权益选择即可。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "不同套餐支持的在线设备数量不同，基础版、旗舰版与团队版分别对应不同档位。选择时按实际同时在线设备数匹配，超量可能导致部分设备无法连接，可按需升级。",
+          "AI_FAQ_QUESTION_3": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后在对应客户端中导入订阅信息，依照各客户端文档完成节点选择与连接。不同平台客户端操作路径可能存在差异，建议先阅读所用客户端的说明文档。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付适合短期或需求不确定的情况，年付适合长期稳定使用，通常整体支出更低。可根据使用周期长短与预算灵活选择，后续也可根据需求调整订阅方式。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多设备、高流量的协同场景，支持更多设备同时在线与专属高带宽节点，并提供定制路由与企业级服务支持，适合小型团队或多人共用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "eeedd807dd1dc69f24a0d321ea03ec70e926e74e5a7a946d1e71f0a9b6d932b8",
+    "sitemap.xml": "29d8e5215d16cdb15aedf845e522ae5c2f5856d798fb910d98a7a6bc493d9249",
+    "robots.txt": "168a8d752535e975b44e6a08a9d9184d4b3f274b848573fb65b26f108d96d5d0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "dc7ac6c1f720f7c833050fc1af7ffbb42f453b6a8eb37e6eb8d0e0f257875f93"
+}
